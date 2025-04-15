@@ -14,7 +14,7 @@ An open-source Discord bot that helps predict safe spots in the Bloxgame Mines g
 > **This bot is for educational purposes only.**  
 > It does **not** guarantee accurate predictions. Use at your own risk.  
 > I am **not responsible** for any losses you may face.
-> I disclaim if someone use this tool on something else on purposes that is not Predictions
+> I disclaim if someone use this tool for something else on purposes that is not Predictions
 ---
 
 ### 🔧 Requirements
